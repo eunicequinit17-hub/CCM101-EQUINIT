@@ -32,10 +32,11 @@ The following mounted file systems were found using the `df -h` command:
 
 ```bash
 cat /etc/os-release
-
-### CPU Model
-
-```bash
 uname -r
-
-### 
+lscpu | grep "Model name"
+nproc
+free -h
+df -h
+df -h /
+hostname
+hostname -I
