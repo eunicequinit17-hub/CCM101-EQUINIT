@@ -1,9 +1,5 @@
 # Checkpoint 2 – Cloud Server Infrastructure Report
 
-## Introduction
-
-This report contains the findings from investigating the Linux cloud server using the KillerCoda terminal. Different Linux commands were used to check the operating system, kernel version, CPU, memory, disk capacity, mounted file systems, hostname, and IP address.
-
 ## Server Information
 
 | Information | Result |
@@ -32,9 +28,14 @@ The following mounted file systems were found using the `df -h` command:
 
 ## Commands Used
 
-The following commands were used to investigate the cloud server:
-
 ### Operating System
 
 ```bash
 cat /etc/os-release
+
+### CPU Model
+
+```bash
+uname -r
+
+### 
