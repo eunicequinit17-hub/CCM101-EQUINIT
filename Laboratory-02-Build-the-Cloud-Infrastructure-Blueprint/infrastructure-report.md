@@ -29,7 +29,7 @@ The following mounted file systems were found using the `df -h` command:
 ## Commands Used
 
 ```bash
-Operating System: cat /etc/os-release
+cat /etc/os-release
 uname -r
 lscpu | grep "Model name"
 nproc
