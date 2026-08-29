@@ -81,8 +81,6 @@ The following tools were used during the laboratory activities:
 | `ip addr` | Checks network information |
 
 ## Skills Learned
-
-Through these laboratory activities, I learned the following skills:
 - Basic Linux command usage.
 - How to check operating system and kernel information.
 - How to identify CPU, memory, and storage resources.
