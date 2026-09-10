@@ -64,7 +64,7 @@ The command was used to identify the total and available memory.
 Command used:
 
 ```bash
-df -h /
+df -h 
 ```
 
 The command was used to identify the available disk space.
