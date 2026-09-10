@@ -1,4 +1,4 @@
-# Mission 4 – Mission Reflection
+# Reflection
 
 This laboratory activity helped me understand how Docker containers are different from Virtual Machines. A Docker container can start within seconds because it does not need to boot a complete operating system like a Virtual Machine. Instead, containers share the host operating system kernel, which makes them lighter and faster to deploy. In comparison, installing and starting a Virtual Machine requires more time because it needs its own guest operating system and allocated resources.
 
