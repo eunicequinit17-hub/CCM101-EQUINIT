@@ -32,3 +32,7 @@ AWS is commonly used for web applications, mobile applications, data storage, ba
 ## Screenshot
 
 <img width="1905" height="913" alt="aws-homepage" src="https://github.com/user-attachments/assets/b0d6b463-c5e6-45ca-aa63-92df2da78e6e" />
+
+## Reference
+
+https://aws.amazon.com/about-aws/global-infrastructure/
