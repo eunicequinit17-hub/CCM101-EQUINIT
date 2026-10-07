@@ -9,3 +9,13 @@ The 404 log entry recorded from the container is:
 ```
 
 Application logs are important because they show what requests and errors are happening inside an application. They help Cloud Operations Engineers identify problems and troubleshoot issues using actual events instead of guessing.
+
+## Real-Time Container Metrics
+
+The `client-website` container was monitored using `docker stats`.
+
+* CPU Usage: **0.00%**
+* Memory Usage: **2.746 MiB / 1.859 GiB**
+* Network I/O: **3.73 kB / 5.25 kB**
+
+These metrics show the current resource consumption of the container while it is running.
